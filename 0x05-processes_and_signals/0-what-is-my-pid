@@ -4,4 +4,4 @@
 pid=$$
 
 # Display the PID
-echo "The PID of this script is: $pid"
+echo " $pid"
