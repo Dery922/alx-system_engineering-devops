@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/bin/env bash
 
-# Get the PID of the current script
+# Get the PID of the current script new noww
 pid=$$
 
 # Display the PID
